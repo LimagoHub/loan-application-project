@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/loan-application-project.iml" filepath="$PROJECT_DIR$/.idea/loan-application-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smartbank24-loan-application-acceptance/smartbank24-loan-application-acceptance.iml" filepath="$PROJECT_DIR$/smartbank24-loan-application-acceptance/smartbank24-loan-application-acceptance.iml" />
+    </modules>
+  </component>
+</project>
